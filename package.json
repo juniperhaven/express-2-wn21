@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniperhaven/express-2-wn21.git"
+  },
+  "author": "juniperhaven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniperhaven/express-2-wn21/issues"
+  },
+  "homepage": "https://github.com/juniperhaven/express-2-wn21#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
